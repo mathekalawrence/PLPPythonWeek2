@@ -8,3 +8,6 @@ my_list.append(30)
 my_list.append(40)
 
 #Inserting 15 at the 2nd position (which is index 1)
+my_list.insert(1, 15)
+
+#Extending the existing list with another list of [50, 60, 70]
