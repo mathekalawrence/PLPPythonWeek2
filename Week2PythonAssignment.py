@@ -14,5 +14,12 @@ my_list.insert(1, 15)
 my_list.extend([50, 60, 70])
 
 #Removing the last element from my_list
-#print(my_list)
+                                         
 my_list.pop()
+
+#sort the list in ascending order
+my_list.sort()
+
+#Finding and printing the index of value 30
+print("Index of 30:", my_list.index(30))
+print(my_list)
