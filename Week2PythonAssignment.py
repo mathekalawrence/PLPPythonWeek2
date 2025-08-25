@@ -11,3 +11,4 @@ my_list.append(40)
 my_list.insert(1, 15)
 
 #Extending the existing list with another list of [50, 60, 70]
+my_list.extend([50, 60, 70])
