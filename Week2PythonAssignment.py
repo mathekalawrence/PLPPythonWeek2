@@ -14,4 +14,5 @@ my_list.insert(1, 15)
 my_list.extend([50, 60, 70])
 
 #Removing the last element from my_list
-print(my_list)
+#print(my_list)
+my_list.pop()
